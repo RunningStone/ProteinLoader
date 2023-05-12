@@ -5,7 +5,7 @@ Dihedral angles are used to specify the molecular conformation. Stereochemical a
 
 In protein, polypeptide main chain dihedral angles: Phi (φ), Psi (ψ), and Omega (ω). 
 With pdb_extractor.py, you can extract:
-    - distance between residues
-    - omega
-    - theta
-    - phi
+- distance between residues
+- omega
+- theta
+- phi
